@@ -1,0 +1,6 @@
+resource "aws_key_pair" "cards-key" {
+    key_name = "Cards-key"
+    public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDUF8gvcflYPBBWHoiNx/HyPeu1LyNm3ZxSUMz+bbVGMy7wDovZ2sFtBtiCnNzikTEVLXvV5TeNQ+wJCIsSn7Zou6I7PNGjdS+8wvWOpPwVTE3DMXsKZNATdxquiZCtjqfk4XgvgaPTZQpaulSzQ8GfFcpAYQsmVMmiv6L0RHHArT/FV7QVrMO2IAAxd+ksHu7XVPhjObxmL2RkAfWzIaLbjoPta3TZkNHXFKfz5quFwmb2fXO9OaeQaYS3iiWpZR0LLjAgAXPvOnIUBawkTAaUH0WMW6Pk57+VLncr0RBHfvnCxqLYX0UswWaiNcDPb9EH8jfJd09pln1HxnhusIXNtm/9ER2Xj8VAJfoTQwe0wSO02HgP3/dRMm29e+J4vreLPpQygkkWsd/2IIG+AEwfe/FwQnknn4isW3c7segs7CfQxMDzNNC3YnqlfaASD5CE+dc1k4knzFebc6Bponxm5HTA5SH+yiUTcBkGOCalklfcd3mfsnQoXPi7hv2mhik= prudh@LAPTOP-0S637K8C"
+  
+  
+}
